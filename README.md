@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack development, but I preferred a backend
 - 📫 How to reach me: via email an.leer001@gmail.com or alikhvar2001@gmail.com
 - ⚡ Fun fact: this is not fun, but I love cats
-- https://huntr.co/p/dekkar
+- 📑 https://huntr.co/p/dekkar
 <!---
 Dekkar01/Dekkar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
